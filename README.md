@@ -1,6 +1,6 @@
 # Joseph Rampey — Projects
 
-A central index of my software projects and experiments. Each active project owns its source code, releases, issues, tests, and detailed documentation in its own repository; this repository serves as the lightweight directory and landing page.
+A central index of my software projects and experiments. Each project owns its source code, releases, issues, tests, and detailed documentation in its own repository; this repository serves as the lightweight directory and landing page.
 
 ## Active Projects
 
@@ -16,21 +16,42 @@ Highlights include Fast Audit and Full Verification modes, No-Intro SHA-1 identi
 
 [Repository](https://github.com/jrampey/MiSTer-ROM-Library-Auditor) · [Releases](https://github.com/jrampey/MiSTer-ROM-Library-Auditor/releases) · [Issues](https://github.com/jrampey/MiSTer-ROM-Library-Auditor/issues)
 
+### [MiSTer Maintenance](https://github.com/jrampey/MiSTer-Maintenance)
+
+A separate home for MiSTer / MiSTer Pi maintenance utilities and supporting tools, kept independent from the ROM Library Auditor so maintenance functionality can evolve without expanding the auditor's scope.
+
+**Status:** Active / early development  
+**Platform:** MiSTer FPGA / MiSTer Pi
+
+[Repository](https://github.com/jrampey/MiSTer-Maintenance)
+
+### [Family Home Page](https://github.com/jrampey/Family-Home-Page)
+
+A standalone family home-page project.
+
+**Status:** Active / early development
+
+[Repository](https://github.com/jrampey/Family-Home-Page)
+
 ## Earlier Projects & Experiments
 
-### Shop With Purpose
+### [Shop With Purpose](https://github.com/jrampey/Shop-With-Purpose)
 
-An earlier PHP/web-development project currently stored in this repository under [`Shop With Purpose/`](./Shop%20With%20Purpose/). It includes product browsing, cart, login, and related web application functionality.
+A PHP/web-development shopping project with product browsing, cart, login, and related web application functionality. It now lives in its own repository rather than inside this index repository.
 
 **Status:** Historical / experiment  
 **Technology:** PHP / HTML / CSS / Bootstrap
+
+[Repository](https://github.com/jrampey/Shop-With-Purpose)
 
 ## Repository Directory
 
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [MiSTer ROM Library Auditor](https://github.com/jrampey/MiSTer-ROM-Library-Auditor) | MiSTer FPGA ROM-library auditing and organization | Active |
-| [Shop With Purpose](./Shop%20With%20Purpose/) | PHP shopping/web-development project | Historical |
+| [MiSTer Maintenance](https://github.com/jrampey/MiSTer-Maintenance) | MiSTer / MiSTer Pi maintenance utilities | Active / early development |
+| [Family Home Page](https://github.com/jrampey/Family-Home-Page) | Family home-page project | Active / early development |
+| [Shop With Purpose](https://github.com/jrampey/Shop-With-Purpose) | PHP shopping/web-development project | Historical |
 
 ## About This Repository
 
